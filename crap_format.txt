@@ -1,0 +1,34 @@
+166.1.226.0/24 - RU, RU-MOW, Moscow
+166.1.140.0/24 - RU, RU-MOW, Moscow
+166.1.229.0/24 - RU, RU-MOW, Moscow
+166.1.231.0/24 - RU, RU-MOW, Moscow
+166.1.233.0/24 - PL, PL-28, Warsaw
+166.1.234.0/24 - PL, PL-28, Warsaw
+166.1.2.0/24 - LT, LT-AL, Vilnius
+166.1.7.0/24 - HU, HU-BU, Budapest
+166.0.114.0/24 - RO, RO-B, Bucharest
+166.0.115.0/24 - RO, RO-B, Bucharest
+166.0.116.0/24 - JP, JP-13, Tokyo
+166.0.117.0/24 - IT, IT-62, Rome
+166.0.119.0/24 - CA, CA-ON, Ottawa
+166.0.120.0/24 - CZ, CZ-10, Prague
+166.0.121.0/24 - CZ, CZ-10, Prague
+166.0.122.0/24 - BR, BR-DF, Brasilia
+166.0.124.0/24 - SE, SE-AB, Stockholm
+166.0.125.0/24 - IE, IE-D, Dublin
+166.0.126.0/24 - IL, IL-JM, Jerusalem
+166.0.127.0/24 - PT, PT-11, Lisbon
+166.1.226.0/24 - HK, Hong Kong
+166.1.228.0/24 - EG, EG-C, Cairo
+166.1.235.0/24 - DO, DO-01, Santo Domingo
+166.1.246.0/24 - GR, GR-I, Athens
+166.1.247.0/24 - AD, AD-07, Andorra la Vella
+166.1.248.0/24 - MD, MD-CU, Kishinev
+166.1.249.0/24 - JO, JO-AJ, Amman
+185.176.93.0/24 - TW, TW-TPE, Taipei
+185.176.95.0/24 - DE, DE-BE, Berlin
+5.181.180.0/24 - DE, DE-BE, Berlin
+5.181.181.0/24 - DE, DE-BE, Berlin
+185.229.221.0/24 - DE, DE-BE, Berlin
+185.229.222.0/24 - DE, DE-BE, Berlin
+185.229.223.0/24 - DE, DE-BE, Berlin
