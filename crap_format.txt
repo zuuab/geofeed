@@ -1,50 +1,32 @@
-166.1.216.0/24 	FR, FR-IDF, Paris
-166.1.24.0/24 	FR, FR-IDF, Paris
-166.1.84.0/24 	PL, PL-28, Warsaw
-166.1.92.0/24 	PL, PL-28, Warsaw
-166.1.94.0/24 	BR, BR-DF, Brasilia
-166.1.5.0/24 	DK, DK-84, Copenhagen
-166.1.109.0/24 	DK, DK-84, Copenhagen
-166.1.73.0/24 	SG,SG,Singapore
-166.1.111.0/24 	SG,SG,Singapore
-166.1.74.0/24 	IE, IE-D, Dublin
-166.0.219.0/24 	ES, ES-MD, Madrid
-166.1.93.0/24 	ES, ES-MD, Madrid
-66.0.217.0/24 	BY, BY-HM, Minsk
-50.114.160.0/24 	UA, UA-30, Kyiv
-50.114.161.0/24 	UA, UA-30, Kyiv
-50.114.162.0/24 	DE, DE-BE, Berlin
-50.114.168.0/24 	HU, HU-BU, Budapest
-50.114.163.0/24 	KZ,KZ-75,Almaty
-50.114.169.0/24 	KZ,KZ-75,Almaty
-66.0.216.0/24 	IT, IT-62, Rome
-50.114.170.0/24 	IT, IT-62, Rome
-50.114.171.0/24 	BG,BG-23,Sofia
-166.0.220.0/24 	AM,AM-ER,Everan
-166.0.221.0/24 	TR,TR-06,Ankara
-166.0.222.0/24 	SI,SI-061,Ljubljana
-166.0.223.0/24 	BE, BE-BRU, Brussel
-166.1.104.0/24 	NZ,NZ-AUK,Auckland
-166.1.105.0/24 	NO, NO-03, Oslo
-166.0.210.0/24 	NO, NO-03, Oslo
-166.1.106.0/24 	CH,CH-BE,Bern
-166.1.107.0/24 	LU,LU-LU,Luxembourg
-166.1.29.0/24 	AT,AT-9,Wien
-166.1.108.0/24 	AT,AT-9,Wien
-166.1.110.0/24 	GE,GE-TB,Tbilisi
-166.0.214.0/24 	GE,GE-TB,Tbilisi
-166.1.56.0/24 	LV, LV-RIX, Riga
-166.1.57.0/24 	AU,AU-ACT,Canberra
-166.1.58.0/24 	ID,ID-JK,Jakarta
-166.1.59.0/24 	SK,SK-BL,Bratislava
-166.1.60.0/24 	IS, IS-1, Reykjavik
-166.1.61.0/24 	EE,EE-37,Tallin
-166.1.62.0/24 	HR, HR-21, Zagreb
-166.1.63.0/24 	AZ, AZ-BA, Baku
-166.0.208.0/24 	FI,FI-18,Helsinki
-166.0.209.0/24 	KG, KG-GB, Bishkek
-166.1.25.0/24 	NL, NL-ZH, Amsterdam
-166.0.211.0/24 	NL, NL-ZH, Amsterdam
-166.0.212.0/24 	NL, NL-ZH, Amsterdam
-166.0.213.0/24 	NL, NL-ZH, Amsterdam
-166.0.215.0/24 	BE, BE-BRU, Brussel
+108.171.32.0/24	UA, UA-30, Kyiv
+108.171.33.0/24	UA, UA-30, Kyiv
+108.171.34.0/24	UA, UA-30, Kyiv
+108.171.35.0/24	UA, UA-30, Kyiv
+108.171.36.0/24	UA, UA-30, Kyiv
+108.171.37.0/24	UA, UA-30, Kyiv
+108.171.38.0/24	UA, UA-30, Kyiv
+108.171.39.0/24	UA, UA-30, Kyiv
+108.171.40.0/24	AU, AU-ACT, Canberra
+108.171.41.0/24	ZA, ZA-WC, Cape Town
+108.171.42.0/24	PK, PK-IS, Islamabad
+108.171.43.0/24	AR, AR-B, Buenos Aires
+108.171.44.0/24	NG, NG-LA, Lagos
+108.171.45.0/24	VE, VE-A, Caracas
+108.171.46.0/24	TJ, TJ-DU, Dushanbe
+108.171.47.0/24	MD, MD-CU, Kishinev
+108.171.48.0/24	MY, MY-06, Kuala Lumpur
+108.171.49.0/24	GR, GR-I, Athens
+108.171.50.0/24	VN, VN-SG, Ho Chi Minh
+108.171.51.0/24	CR, CR-SJ, San Jose
+108.171.52.0/24	ME, ME-16, Podgorica
+108.171.53.0/24	UZ, UZ-TK, Toshkent
+108.171.54.0/24	PT, PT-11, Lisbon
+108.171.55.0/24	KR, KR-11, Seoul
+108.171.56.0/24	PH, PH-00, Manila
+108.171.57.0/24	MC, MC-MC, Monte-Carlo
+108.171.58.0/24	CH,CH-BE,Bern
+108.171.59.0/24	TH, TH-10, Bangkok
+108.171.60.0/24	BD, BD-C, Dhaka
+108.171.61.0/24	AE, AE-AJ, Ajman
+108.171.62.0/24	CZ, CZ-10, Prague
+108.171.63.0/24	PL, PL-28, Warsaw
