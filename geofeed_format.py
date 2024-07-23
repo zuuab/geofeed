@@ -39,3 +39,29 @@ with open('/Users/zachheaton/Desktop/work/geofeed/crap_format.txt', 'r') as file
 # Print formatted lines
 for line in formatted_lines:
     print(line)
+
+# formatted_lines = []
+
+# with open('/Users/zachheaton/Desktop/work/geofeed/crap_format.txt', 'r') as file:
+#     for line_number, line in enumerate(file, start=1):
+#         # Remove leading and trailing whitespace from the entire line
+#         line = line.strip()
+
+#         # Replace any sequence of spaces with a single space
+#         line = ' '.join(line.split())
+
+#         # Split line into IP network and location info
+#         ip_network, location_info = line.split(',', 1)
+
+#         # Remove leading and trailing whitespace from location info components
+#         location_info = [info.strip() for info in location_info.split(',')]
+
+#         # Join IP network and location info with commas
+#         reformatted_line = f"{ip_network},{','.join(location_info)}"
+
+#         # Append the formatted line to the list
+#         formatted_lines.append(reformatted_line)
+
+# # Print formatted lines without spaces
+# for line in formatted_lines:
+#     print(line)
