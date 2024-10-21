@@ -80,7 +80,7 @@
 166.1.88.0/24,UA,UA-30,Kyiv,
 166.1.89.0/24,NL,NL-ZH,Amsterdam,
 166.1.90.0/24,UA,UA-30,Kyiv,
-166.1.91.0/24,UA,UA-30,Kyiv,
+166.1.91.0/24,EE,EE-37,Tallinn,
 166.1.92.0/24,PL,PL-28,Warsaw,
 166.1.93.0/24,ES,ES-MD,Madrid,
 166.1.94.0/24,BR,BR-DF,Brasilia,
@@ -189,3 +189,4 @@
 142.111.52.0/24,RO,RO-B,Bucharest,
 142.111.56.0/24,RO,RO-B,Bucharest,
 142.111.85.0/24,RO,RO-B,Bucharest,
+142.111.152.0/24,US,US-TX,Houston,77002
